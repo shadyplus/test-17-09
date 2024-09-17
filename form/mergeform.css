@@ -1,0 +1,516 @@
+/*! CSS Used from: https://test.shust.org/1/cnbc.detail.style.css */
+header,
+nav {
+  display: block;
+}
+input {
+  font-family: sans-serif;
+}
+a {
+  background: transparent;
+}
+a:focus {
+  outline: thin dotted;
+}
+a:hover,
+a:active {
+  outline: 0;
+}
+img {
+  border: 0;
+}
+svg:not(:root) {
+  overflow: hidden;
+}
+input {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+}
+input {
+  line-height: normal;
+}
+[class^="icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: 0.2em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  margin-left: 0.2em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-cancel:before {
+  content: "\e800";
+}
+.icon-search:before {
+  content: "\e801";
+}
+header .menu .nav_menu ul {
+  margin: 0;
+  padding: 0;
+}
+header .menu .nav_menu ul {
+  list-style: none;
+}
+a:hover {
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+}
+header .menu {
+  font-family: gotham;
+  font-weight: 500;
+}
+a,
+header .menu .nav_menu ul li {
+  -webkit-transition: all ease 0.2s;
+  -moz-transition: all ease 0.2s;
+  -ms-transition: all ease 0.2s;
+  -o-transition: all ease 0.2s;
+  transition: all ease 0.2s;
+}
+header .menu .nav_menu,
+header .menu .search-wrap,
+header .menu .search-wrap .form-search {
+  -webkit-transition: all 350ms cubic-bezier(0.165, 0.84, 0.44, 1);
+  -moz-transition: all 350ms cubic-bezier(0.165, 0.84, 0.44, 1);
+  -ms-transition: all 350ms cubic-bezier(0.165, 0.84, 0.44, 1);
+  -o-transition: all 350ms cubic-bezier(0.165, 0.84, 0.44, 1);
+  transition: all 350ms cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+a {
+  text-decoration: none;
+  color: #444;
+}
+a:hover {
+  color: #777;
+}
+header {
+  display: table;
+  width: 100%;
+}
+header {
+  display: table;
+  width: 100%;
+}
+ul {
+  padding: 0 0 0 25px;
+  margin-top: 14px;
+  margin-bottom: 14px;
+  margin-bottom: 14px;
+}
+ul li {
+  padding: 5px 0;
+}
+img {
+  vertical-align: middle;
+}
+input:focus {
+  outline: none;
+}
+input[type="text"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -o-border-radius: 0px;
+  border-radius: 0px;
+}
+input[type="text"] {
+  font-size: 14px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+  margin: 0 0 10px;
+  background: #f7f7f7;
+}
+.container {
+  margin: 0 auto;
+  padding: 0;
+  width: 1100px;
+  background: #fff;
+}
+.container:before,
+.container:after {
+  content: " ";
+  display: table;
+}
+.av_textblock_section {
+  max-width: 1100px;
+  padding: 20px 0;
+  margin: auto;
+}
+@media (max-width: 481px) {
+  .av_textblock_section {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+  .container {
+    width: 1000px;
+  }
+}
+#header-search-input {
+  background: none;
+  border: none;
+  outline: none;
+}
+.mt10 {
+  margin-top: 10px;
+}
+.fr {
+  float: right !important;
+}
+header {
+  /* background-color: #295d97; */
+}
+header .inner_header {
+  padding: 20px 10px;
+  /* background-color: #295d97; */
+}
+header #logo img {
+  width: 121px;
+}
+header .menu {
+  /* background-color: #204d7f; */
+  border-top: 1px solid #37739e;
+  width: 100%;
+  float: left;
+  font-size: 13px;
+  position: relative;
+}
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+  header .menu {
+    font-size: 11px;
+  }
+}
+header .menu__second {
+  background-color: #fff;
+  border-top: none;
+  border-bottom: 1px solid #e6e6e6;
+}
+header .menu .nav_menu {
+  float: left;
+  width: calc(100% - 40px);
+  max-width: 1060px;
+  opacity: 1;
+  position: relative;
+}
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+  header .menu .nav_menu {
+    max-width: 960px;
+  }
+}
+header .menu .nav_menu ul {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  height: 42px;
+}
+header .menu .nav_menu ul li {
+  padding: 0;
+  position: relative;
+  line-height: 18px;
+}
+header .menu .nav_menu ul li a {
+  color: #fff;
+  padding: 12px 10px;
+  display: block;
+}
+header .menu .nav_menu ul li a:hover {
+  opacity: 1;
+}
+header .menu .nav_menu ul li a.active {
+  color: #f2796c;
+}
+header .menu .nav_menu ul li:hover {
+  background-color: #18416d;
+}
+header .menu .nav_menu ul li.home a {
+  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+header .menu .nav_menu ul li.home img {
+  display: none;
+  position: absolute;
+  top: 5px;
+  width: 50px;
+}
+header .menu .nav_menu ul li.log {
+  background-color: #18416d;
+  text-align: center;
+  position: relative;
+  min-width: 80px;
+}
+header .menu .nav_menu ul li.log a {
+  padding: 12px 0;
+  display: block;
+}
+header .menu .nav_menu ul li.nav_cnbctv {
+  display: flex;
+}
+header .menu .nav_menu ul li.nav_cnbctv a {
+  background-color: #cd1f43;
+  border-radius: 3px;
+  width: 94px;
+  padding: 6px 10px;
+  margin: auto;
+}
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+  header .menu .nav_menu ul li.nav_cnbctv a {
+    width: 85px;
+  }
+}
+header .menu .nav_menu ul li.nav_cnbctv a:before {
+  content: " ";
+  width: 7px;
+  height: 7px;
+  background-color: #fff;
+  display: inline-block;
+  border-radius: 50%;
+  margin-right: 6px;
+  animation: rec_tick 0.8s linear 0s infinite alternate;
+  position: relative;
+  bottom: 1px;
+}
+header .menu .nav_menu ul li.nav_cnbctv a:hover {
+  background-color: #b71c3c;
+}
+header .menu__second .nav_menu ul {
+  justify-content: left;
+}
+header .menu__second .nav_menu ul li a {
+  font-size: 14px;
+  padding: 12px;
+  color: #000;
+}
+header .menu__second .nav_menu ul li:hover {
+  background-color: #fff;
+  opacity: 0.8;
+}
+header .menu .search-wrap {
+  float: left;
+  overflow: hidden;
+  position: relative;
+  width: 40px;
+}
+header .menu .search-wrap .srch-btn {
+  background-color: #fff;
+  color: #204d7f;
+  display: inline-block;
+  padding: 10px 0;
+  font-size: 18px;
+  float: left;
+  width: 40px;
+  text-align: center;
+}
+header .menu .search-wrap .srch-btn:hover {
+  cursor: pointer;
+}
+header .menu .search-wrap .form-search {
+  width: 0;
+  overflow: hidden;
+  float: left;
+  background-color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header .menu .search-wrap .form-search input {
+  margin: 0;
+  width: 94%;
+  border: 0;
+  border-bottom: 1px solid #e6e6e6;
+  background: none;
+  float: left;
+}
+header .menu .search-wrap .form-search span {
+  float: left;
+  display: inline-block;
+  padding: 4px;
+  color: #f2796c;
+  font-size: 16px;
+}
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+  header .menu .search-wrap .form-search span {
+    position: relative;
+    right: 25px;
+  }
+}
+header .menu .search-wrap .form-search span:hover {
+  cursor: pointer;
+}
+header .overlay {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 20;
+}
+.user-drop {
+  position: absolute;
+  top: 104%;
+  background-color: #f7f7f7;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.16);
+  right: 0;
+  z-index: 20;
+  border-radius: 4px;
+  overflow: hidden;
+  display: none;
+}
+.user-drop .mpc-card {
+  padding: 20px 20px 10px;
+  background-color: #fff;
+}
+.user-menu {
+  display: flex;
+  flex-direction: column !important;
+  height: auto !important;
+}
+.user-menu li {
+  border-bottom: 1px solid #f0f0f0;
+}
+.user-menu li a {
+  color: #333 !important;
+  padding: 16px 20px !important;
+  display: flex !important;
+  align-items: center;
+  gap: 8px;
+}
+.user-menu li a:hover {
+  background-color: #eee !important;
+}
+.user-menu li:last-child {
+  border: none;
+}
+a {
+  text-decoration: none;
+  -webkit-transition: all 200ms linear 0s;
+  -moz-transition: all 200ms linear 0s;
+  -o-transition: all 200ms linear 0s;
+  transition: all 200ms linear 0s;
+}
+a:hover {
+  text-decoration: none;
+}
+::selection {
+  background: #f5a623;
+  color: #000;
+}
+.leaderboard {
+  z-index: 11 !important;
+}
+.form-search {
+  position: relative;
+}
+/*! CSS Used keyframes */
+@keyframes rec_tick {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.2;
+  }
+}
+/*! CSS Used fontfaces */
+@font-face {
+  font-family: "fontello";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://test.shust.org/1/cnbc.detail.style.css");
+  src: url("https://test.shust.org/1/cnbc.detail.style.css")
+      format("embedded-opentype"),
+    url("https://test.shust.org/1/fontello.woff") format("woff"),
+    url("https://test.shust.org/1/fontello.ttf") format("truetype"),
+    url("https://test.shust.org/1/cnbc.detail.style.css") format("svg");
+}
+@font-face {
+  font-family: "gotham";
+  font-weight: 500;
+  font-style: normal;
+  src: url("https://test.shust.org/1/cnbc.detail.style.css");
+  src: url("https://test.shust.org/1/cnbc.detail.style.css")
+      format("embedded-opentype"),
+    url("https://test.shust.org/1/Gotham-Medium.woff") format("woff"),
+    url("https://test.shust.org/1/Gotham-Medium.ttf") format("truetype"),
+    url("https://test.shust.org/1/cnbc.detail.style.css") format("svg");
+}
+@font-face {
+  font-family: "gotham";
+  font-weight: bold;
+  font-style: normal;
+  src: url("https://test.shust.org/1/cnbc.detail.style.css");
+  src: url("https://test.shust.org/1/cnbc.detail.style.css")
+      format("embedded-opentype"),
+    url("https://test.shust.org/1/Gotham-Bold.woff") format("woff"),
+    url("https://test.shust.org/1/Gotham-Bold.ttf") format("truetype"),
+    url("https://test.shust.org/1/cnbc.detail.style.css") format("svg");
+}
+@font-face {
+  font-family: "gotham";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://test.shust.org/1/cnbc.detail.style.css");
+  src: url("https://test.shust.org/1/cnbc.detail.style.css")
+      format("embedded-opentype"),
+    url("https://test.shust.org/1/Gotham-Book.woff") format("woff"),
+    url("https://test.shust.org/1/Gotham-Book.ttf") format("truetype"),
+    url("https://test.shust.org/1/cnbc.detail.style.css") format("svg");
+}
+@font-face {
+  font-family: "gotham";
+  font-weight: 300;
+  font-style: normal;
+  src: url("https://test.shust.org/1/cnbc.detail.style.css");
+  src: url("https://test.shust.org/1/cnbc.detail.style.css")
+      format("embedded-opentype"),
+    url("https://test.shust.org/1/Gotham-Light.woff") format("woff"),
+    url("https://test.shust.org/1/Gotham-Light.ttf") format("truetype"),
+    url("https://test.shust.org/1/cnbc.detail.style.css") format("svg");
+}
+@font-face {
+  font-family: "gotham";
+  font-weight: 100;
+  font-style: normal;
+  src: url("https://test.shust.org/1/cnbc.detail.style.css");
+  src: url("https://test.shust.org/1/cnbc.detail.style.css")
+      format("embedded-opentype"),
+    url("https://test.shust.org/1/Gotham-Thin.woff") format("woff"),
+    url("https://test.shust.org/1/Gotham-Thin.ttf") format("truetype"),
+    url("https://test.shust.org/1/cnbc.detail.style.css") format("svg");
+}

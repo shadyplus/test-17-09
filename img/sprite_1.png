@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+   
+   <meta name="robots" content="noindex">
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <link rel="preconnect" href="https://fonts.gstatic.com">
+   <link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
+   <link rel="icon" type="image/png" href="prod.png">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="robots" content="noindex">
+   <title>
+   La medicina del futuro | MedicReporters – portal de información médica
+   dedicada a la salud
+   </title>
+   <link rel="stylesheet" id="contact-form-7-css" href="../css/styles.css" type="text/css" media="all">
+   <link rel="stylesheet" id="cff-css" href="../css/cff-style.css" type="text/css" media="all">
+   <link rel="stylesheet" id="sb-font-awesome-css" href="../css/font-awesome.min.css" type="text/css" media="all">
+   <link rel="stylesheet" id="prettyphoto-style-css" href="../css/prettyPhoto.css" type="text/css" media="all">
+   <link rel="stylesheet" id="medicine-css" href="../css/medicine.min.css" type="text/css" media="all">
+   <link rel="stylesheet" id="newsletter-subscription-css" href="../css/style.css" type="text/css" media="all">
+   <link rel="stylesheet" href="../css/orderForm.css" type="text/css" media="all">
+   <link type="text/css" rel="stylesheet" charset="UTF-8" href="../css/translateelement.css">
+   <script defer="defer" src="../js/stats.js"></script>
+   <style>
+   .hide,
+   .flag-dropdown {
+      display: none;
+   }
+   .error-box {
+      color: #fff;
+      background-color: #de5042 !important;
+      border-radius: 5px;
+      text-align: center;
+      width: 240px;
+      font-size: 13px;
+      line-height: 20px;
+      margin: 5px auto !important;
+      z-index: 100;
+   }
+   input:invalid {
+      box-shadow: none;
+   }
+   .centered {
+      text-align: center;
+   }
+	.intl-tel-input {
+	   width: 100%
+   }
+   </style>
+</head>
+<body>
+   <div class="container">
+   <header class="header row">
+      <div class="header__top">
+         <h1>MEDICINA DEL FUTURO</h1>
+      </div>
+      <nav class="header__nav">
+         <ul class="nav">
+         <li class="nav__item">
+            <a href="#form__block">
+               Tecnologia
+            </a>
+         </li>
+         <li class="nav__item">
+            <a href="#form__block">
+               Salud
+            </a>
+         </li>
+         <li class="nav__item">
+            <a href="#form__block">
+               Medicina
+            </a>
+         </li>
+         <li class="nav__item">
+            <a href="#form__block">
+               Belleza
+            </a>
+         </li>
+         <li class="nav__item">
+            <a href="#form__block">
+               Lifestyle
+            </a>
+         </li>
+         <li class="nav__item">
+            <a href="#form__block">
+               Eco
+            </a>
+         </li>
+         </ul>
+      </nav>
+      <a href="#form__block" class="main-lnk">
+         <div class="header__breadcrumb">
+            Página principal &gt;&gt; Medicina &gt;&gt; Articulaciones sanas -
+            un descubrimiento merecedor de un Nobel
+         </div>
+      </a>
+   </header>
+   <main class="row">
+      <article class="article">
+         <header class="article__heading">
+         <h1>
+            El profesor Costarricense ha descubierto un método no quirúrgico que
+            elimina el dolor y la rigidez de las articulaciones en 4 semanas.
+         </h1>
+         </header>
+         <figure class="figure figure--full-width roboto-font">
+         <a href="#form__block">
+            <img src="knee.jpg" alt="Knee" class="img-fluid img-center">
+         </a>
+         <figcaption class="figure__caption">
+            *Visualización de los resultados de la acción de la formula de
+            Pablo Jiménez preparada en un simposio científico en junio de 2017
+         </figcaption>
+         </figure>
+         <p class="paragraph-main">
+         Incluso si tienes 60 años, en 4 semanas puedes tener unas
+         articulaciones sanas y eficientes, como las de una persona de 20
+         años. El dolor de las rodillas, los codos, las caderas o las muñecas
+         desaparece totalmente y las articulaciones recuperan una completa
+         eficiencia. Todos gracias al revolucionario descubrimiento del
+         profesor Pablo Jiménez.
+         </p>
+         <hr class="separator">
+         <figure class="figure figure--floated-left">
+         <a href="#form__block">
+            <img src="spec.png" alt="Doctor" class="img-fluid img-center" style="margin-top: 6px">
+         </a>
+         <figcaption class="figure__caption figure__caption--doctor">
+            Prof. Pablo Jiménez
+         </figcaption>
+         </figure>
+         <p class="clearfix" style="overflow: hidden">
+            Fue una sorpresa. Las 272 personas que participaron en las pruebas
+            del nuevo descubrimiento del prof. Pablo Jiménez no podían creerlo.
+            El nuevo producto contribuyó a la restauración completa de la capacidad de trabajo y la eliminación del dolor en las articulaciones. Sus articulaciones estaban más fuertes y el
+            cartílago articular regenerado. Algunas de ellas volvieron a
+            practicar deporte de forma activa después de apenas dos semanas de
+            iniciar el tratamiento.
+         </p>
+         <p class="paragraph-title">
+            <a href="#form__block">
+               Estos son los resultados obtenidos por los participantes:
+            </a>
+         </p>
+         <p>El producto promovió:</p>
+         <ul class="article__list">
+            <li>
+               eliminación completa del dolor en las articulaciones y la columna durante la primera semana de uso del producto;
+            </li>
+            <li>
+               eliminación de la hipersensibilidad y sensación desagradable de rigidez articular en las dos primeras semanas;
+            </li>
+            <li>
+               eliminación de la inflamación y regeneración de elementos clave de las articulaciones (glándula pineal, cartílago articular) dentro de las 4 semanas;
+            </li>
+            <li>
+               restauración de la actividad física después de 30 días de uso de la fórmula.
+            </li>
+         </ul>
+         <p>
+            Desde un punto de vista científico se trata de una habilidad regenerativa normal, que tiene el organismo de cada uno de nosotros. No es un milagro, es la ciencia más moderna.
+         </p>
+         <p class="paragraph--yellow text-italic">
+            «Después de la primera semana de usar la crema noté como si mis
+            articulaciones se desbloqueasen. Podía mover libremente las piernas.
+            Un día tras otro el dolor en las caderas se debilitaba. Finalmente
+            desapareció por completo. La segunda semana comencé a andar
+            libremente por las escaleras. ¡Incluso de dos en dos escalones!
+            Después de 30 días el dolor y las limitaciones del movimiento
+            desaparecieron para siempre. Pasó otro mes y recuperé la plena
+            eficiencia y otra vez empecé a ir a fitness».
+         </p>
+         <div class="before-after before-after--bigger">
+            <p>  
+               ANTES
+            </p>
+            <p>
+               DESPUÉS
+            </p>
+         </div>
+         <figure class="figure radiograph">
+            <a href="#form__block">
+               <img src="radiograph.jpg" alt="Radiograph" class="img-fluid">
+            </a>
+            <p class="radiograph__first">
+               estrechamiento
+               <br>
+               del espacio
+               <br>
+               articular
+            </p>
+            <p class="radiograph__second">
+               espacio
+               <br>
+               articular
+               <br>
+               correcto
+            </p>
+            <figcaption class="figure__caption figure__caption--radiograph">
+               Cristina, de 45 años, probó el método del prof. Pablo Jiménez
+            </figcaption>
+         </figure>
+         <div class="promo">
+            <a href="#form__block" style="animation: none">
+               <img src="prod.png" alt>
+            </a>
+         <div class="promo-text">
+            <p>
+               ¡Solo hoy tienen la oportunidad única de comprar un producto
+               natural PARA ARTICULACIONES 
+               <a href="#form__block" style="animation: none; font-size: inherit; padding: 0">
+                  "BIOFORCE</a>" con<span> el 50% de descuento!</span>
+            </p>
+            <a href="#form__block"> 
+               ordenar
+            </a>
+         </div>
+         </div>
+         <p class="paragraph-title">
+         Para una persona normal parece imposible
+         </p>
+         <p>
+         Pensarás que es imposible. <b>Desde un punto de vista científico se trata de una habilidad regenerativa normal, que tiene el organismo de cada uno de nosotros. No es un milagro, es la ciencia más moderna.</b> El descubridor del método explica los detalles.
+         </p>
+         <p>
+         <span class="text-bold"> Prof. Pablo Jiménez:</span> <i>"Descubrimos que
+         algunas sustancias activas penetran en la nanoestructura de la
+         articulación y estimulan la recuperación de los condroblastos. No
+         solo eliminan las causas de la inflamación, sino que también nutren
+         las células e inician el proceso de autorregeneración. Las
+         articulaciones son literalmente regeneradas y rejuvenecidas. Esas
+         sustancias activas pueden:</i>
+         </p>
+         <ul class="article__list">
+         <li>
+            estimular la completa regeneración de los condroblastos - gracias
+            a esto las articulaciones se regeneran sin importar la edad
+         </li>
+         <li>
+            aumentar la cantidad de sinovia en un 40% - gracias a esto las
+            articulaciones son más fuertes y más elásticas
+         </li>
+         <li>
+            eliminar la inflamación 9 veces más rápido - lo que hace que el
+            dolor de las articulaciones desaparezca de un día para otro
+         </li>
+         </ul>
+         <p><i>
+         Pero eso no es todo. Estos ingredientes retrasan la pérdida de
+         colágeno y sinovia, y al mismo tiempo estimulan la autorregeneración
+         de las células. Como resultado del uso, el producto contribuye a la restauración de la movilidad articular completa a nivel celular. Este es el método natural. Para que la fórmula fuera accesible para todos, la realicé en forma de una crema llamada<a href="#form__block"> BIOFORCE</a>.</i>
+         </p>
+         <div class="before-after before-after--smaller">
+         <p>ANTES</p>
+         <p>DESPUÉS</p>
+         </div>
+         <figure class="figure">
+         <a href="#form__block"><img src="radiograph-2.jpg" alt="Radiograph" class="img-fluid"></a>
+         <figcaption class="figure__caption figure__caption--radiograph text-left--sm">
+               <span class="text-bold">Regeneración articular a nivel celular.</span> El suplemento ayuda a aumentar la producción de membrana sinovial y fortalecer el cartílago en un promedio de <span class="text-bold">4 semanas</span>.
+         </figcaption>
+         </figure>
+         <p><i>
+         La fórmula BIOFORCE ha conseguido el éxito en todo el mundo y las
+         reacciones de los consumidores llegan de todas partes. Incluso las
+         personas que se dedican profesionalmente al deporte, así como las
+         que tienen una dieta inadecuada y deficiencia de vitamina C, que
+         buscaban sin éxito ayuda en los médicos, se libraron del dolor y
+         eliminaron la rigidez de las articulaciones en 4 semanas.
+         </i>
+         </p>
+         <p><i>
+         Independientemente de la edad, puedes disfrutar de una total
+         eficiencia de las articulaciones - y tu cuerpo dejará de luchar con
+         el dolor y la rigidez.
+         </i>
+         </p>
+         <p class="paragraph-title">
+         ¿Cómo conseguir<a href="#form__block"> BIOFORCE</a> y aliviar los
+         dolores y la rigidez de las articulaciones en 4 semanas?
+         </p>
+         <p>
+         BIOFORCE ha logrado un enorme éxito en Costa Rica, donde ya ha ayudado a
+         más de 27 000 personas. Sin embargo, el fabricante informa de que
+         existe un interés tan grande por el método del prof. Pablo Jiménez que
+         las reservas pueden agotarse en breve. Y la siguiente entrega puede
+         llegar a Costa Rica en unos 2 meses. Si te interesa la fórmula
+         <a href="#form__block">BIOFORCE</a>,
+         <a href="#form__block">complete abajo el formulario del pedido</a>, el
+         producto puede dejar de estar disponible en poco tiempo.
+         </p>
+         <p class="cta" style="text-align: center">
+         Pedir BIOFORCE y eliminar el dolor y la rigidez de las
+         articulaciones en 4 semanas!
+         </p>
+      </article>
+   </main>
+
+   <div class="centered">
+      <div class="form-wrapper">
+         <p class="form-intro">
+            <b>ATENCIÓN:</b> hay una oferta especial del fabricante. ¡No pierda la oportunidad de probar Bioforce con un 50% de descuento!
+         </p>
+   
+   
+         <form action method="POST" class="form" id="form__block">
+            <div class="form-header">
+               <img class="form-logo" src="med.png">
+               <h3 class="form-title">
+                  Formulario de pedido oficial
+               </h3>
+               <p class="form-orders">
+                  №29982 de 30000, <span class="js-current-date"></span>
+               </p>
+   
+               <p class="form-accent">
+                  Para obtener un descuento en Bioforce, ingrese su nombre y número de teléfono en los campos a continuación y haga clic en el botón "Enviar el pedido"
+               </p>
+   
+               <div class="form-price">
+                  Precio inicial: <span class="form-price__old oldPriceAndLabelForLandingInfoApi">78$</span> <br>
+                  <strong>-50% DE DESCUENTO</strong> <br>
+                  Nuevo precio: <span class="form-price__new priceAndLabelForLandingInfoApi">39$</span> *
+               </div>
+            </div>
+   
+            <div class="form-inputs">
+               <input type="hidden" name="country" value="CR">
+   
+               <label for="#input-name">Su nombre</label>
+               <input type="text" name="name" id="input-name" placeholder="Su nombre">
+   
+               <label for="#input-phone">Su teléfono</label>
+               <input type="tel" name="phone" id="input-phone" placeholder="Su teléfono">
+   
+               <button type="submit">ENVIAR EL PEDIDO</button>
+            </div>
+   
+            <p class="form-footer">
+               *Este descuento para un paquete es válido al pedir un tratamiento
+            </p>
+         </form>
+   
+         <div class="form-bottom">
+            <p class="form-bottom__title">
+               ¡DÉSE PRISA! Los paquetes promocionales terminarán pronto.
+            </p>
+            <p>
+               <b>Actualización:</b> solo quedan <b><span class="form-instock">34</span> unidades</b> al día <b><span class="js-current-date"></span></b>.  
+            </p>
+            <p class="form-bottom__order">
+               Rellene el formulario y nuestro especialista pronto se pondrá en contacto con usted. El mensajero entregará el pedido a su domicilio, pago a la recepción.
+            </p>
+         </div>
+      </div>
+     
+   </div>
+
+   <p class="comments__footer">Comentarios</p>
+
+   <div class="comments">
+      <div class="comments__name">Marta Benítez</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="Frame%20135.png" alt>
+         </div>
+         <div class="comments__text">
+         Las articulaciones dolorosas son un camino hacia la discapacidad.
+         ¡Deben ser tratados lo antes posible! Hace más de medio año que
+         sufro a causa de mis rodillas, apenas puedo caminar ... ningún
+         medicamento ayuda. Gracias por el artículo útil, definitivamente
+         probaré Bioforce
+         </div>
+      </div>
+
+      <div class="comments__name">José Ramón Pereyra</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="Frame%20145.png" alt>
+         </div>
+         <div class="comments__text">
+         Para ser honesto, ¡no he visto un producto más eficaz para la salud
+         de las articulaciones! He estado usando Bioforce solo durante una
+         semana y el dolor ha desaparecido por completo, la articulación aún
+         no es tan móvil, todavía está un poco hinchada, pero mucho menos que
+         antes. Informaré sobre el resultado después de la finalización del
+         tratamiento
+         <img class="img__form" src="prod1.jpg" alt>
+         </div>
+      </div>
+
+      <div class="comments__name">Santiago</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="Frame%20146.png" alt>
+         </div>
+         <div class="comments__text">
+         ¡Genial, profesor Pablo Jiménez! Si mi espalda se recupera en 4
+         semanas, me gustaría estrechar su mano personalmente en
+         agradecimiento. Pedí 3 paquetes de tu maravillosa crema, es muy
+         rentable con un descuento
+         </div>
+      </div>
+
+      <div class="comments__name">Veronica Godoy</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="Frame%20136.png" alt>
+         </div>
+         <div class="comments__text">
+         Finalmente, los científicos y los médicos han creado un producto que
+         realmente funciona, ¡no una "tonteria"!
+         <a href="#form__block">Deje una orden.</a>
+         </div>
+      </div>
+
+      <div class="comments__name">Isabel</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="9.jpg" alt>
+         </div>
+         <div class="comments__text">
+         Yo también tengo una experiencia positiva con Bioforce. Siempre
+         había estado poniéndome inyecciones, ¡pero ya llevo un mes volando
+         como un pájaro gracias a Bioforce!
+         <img class="img__form" src="prod2.jpg" alt>
+         </div>
+      </div>
+
+      <div class="comments__name">Carolina Toledo</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="Frame%20138.png" alt>
+         </div>
+         <div class="comments__text">
+         He sufrido de dolor de espalda durante muchos años, ¡no puedo
+         soportarlo más! Cada día es como una pesadilla ... ¿Qué tan rápido
+         me ayudará Bioforce?
+         </div>
+      </div>
+
+      <div class="comments__name">Teresa Lozano</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="4.jpg" alt>
+         </div>
+         <div class="comments__text">
+         Sentí el efecto desde la primera aplicación: el dolor de espalda
+         desapareció en la primera noche. Ahora puedo dormir profundamente y
+         lo suficiente por primera vez en mucho tiempo. He estado usando la
+         crema durante 3 semanas y me siento completamente recuperada!
+         </div>
+      </div>
+
+      <div class="comments__name">Sofía Fernández</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="Frame%20143.png" alt>
+         </div>
+         <div class="comments__text">
+         Bioforce me ayudó a deshacerme de mi gota después de solo 1
+         tratamiento y ahora siempre lo tengo a mano por si acaso.
+         <img class="img__form" src="prod3.jpg" alt>
+         </div>
+      </div>
+
+      <div class="comments__name">Soraya Sánchez</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="Frame%20137.png" alt>
+         </div>
+         <div class="comments__text">
+         ¡Estoy completamente encantada! ¡Es un producto eficaz para
+         problemas articulares! Mis codos y rodillas han dejado de doler.
+         </div>
+      </div>
+
+      <div class="comments__name">Gloria Martín</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="36ffcf8c-7ca1-4f5d-99b0-1b597ca223d0.png" alt>
+         </div>
+         <div class="comments__text">
+         <a href="#form__block">Ya ordene</a>. Espero con ansias al mensajero,
+         ¡no puedo esperar para comenzar el tratamiento!
+         </div>
+      </div>
+
+      <div class="comments__name">Milagros Marquez</div>
+      <div class="comments__prof">
+         <div class="comments__photo">
+         <img class="no__foto" src="Frame%20141.png" alt>
+         </div>
+         <div class="comments__text">
+            ¡Gracias por este maravilloso invento!
+         </div>
+      </div>
+   </div>
+   <div class="footer__btn">
+      <a href="#form__block" class="btn__footer"> PEDIR BIOFORCE AHORA </a>
+   </div>
+   </div>
+   <style>
+   .footer__clause-info {
+      padding-bottom: 0.5rem;
+      text-align: center;
+   }
+   .footer__clause-link {
+      font-size: 13px;
+      color: #666;
+      transition: color 0.3s ease-in-out;
+   }
+   .footer__clause-link:hover {
+      cursor: pointer;
+      color: #000;
+      text-decoration: none;
+   }
+   .newsletterIframe {
+      height: 500px;
+   }
+   @media (min-width: 576px) {
+      .newsletterIframe {
+         height: 380px;
+      }
+   }
+   @media (min-width: 768px) {
+      .newsletterIframe {
+         height: 230px;
+      }
+   }
+   </style>
+   <style>
+   @media (max-width: 480px) {
+      .figure__caption {
+         font-size: 18px;
+      }
+      .paragraph-main {
+         font-size: 19px;
+      }
+      p {
+         font-size: 19px;
+      }
+      .article__list li {
+         font-size: 19px;
+      }
+      .paragraph--yellow {
+         font-size: 19px;
+      }
+      .article__heading h1 {
+         font-size: 20px;
+      }
+   }
+   </style>
+   <style id="oplao-weather-inline-css" type="text/css">
+   .oplao-weather-wrap {
+      font-family: "Open Sans", sans-serif;
+      font-weight: 300;
+      font-size: 16px;
+      line-height: 14px;
+   }
+   </style>
+
+   <style>
+   .header__top {
+      background-image: url("top-bg.jpg");
+   }
+   .header__nav {
+      background-color: #366c8c;
+   }
+   .nav__item a:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+   }
+   .btn--primary {
+      background-color: #366c8c;
+   }
+   </style>
+   <noscript><img height="1" width="1" style="display: none" src="https://www.facebook.com/tr?id=295282688841389&amp;ev=PageView&amp;noscript=1"></noscript>
+   <script src="../js/jquery.min.js"></script>
+   <script src="../js/moment-with-locales.min.js"></script>
+   <script src="../js/script.js"></script>
+   <script>
+   $(document).ready(function () {
+      $("a[href*=#]").on("click", function (e) {
+         var anchor = $(this);
+         $("html, body")
+         .stop()
+         .animate(
+            {
+               scrollTop: $(anchor.attr("href")).offset().top,
+            },
+            777
+         );
+         e.preventDefault();
+         return false;
+      });
+   });
+
+   document.addEventListener('DOMContentLoaded', () => {
+		let formInstockValue;
+		let countDownFlag = true
+		
+		function countdown(el) {		
+			if(formInstockValue > 6) {
+				formInstockValue -= randomIntFromInterval(1, 3)
+				changeCounter(formInstockValue, el)
+
+			} else if(formInstockValue > 3) {
+				formInstockValue -= 1
+				changeCounter(formInstockValue, el)
+			}
+		}
+
+		function changeCounter(num, el) {
+			localStorage.setItem('inStock', num)
+			el.style.opacity = 0
+				setTimeout(function() {
+					el.style.opacity = 1
+					el.textContent = num
+				}, 300)
+		}
+
+		function randomIntFromInterval(min, max) { 
+		// min and max included
+			return Math.floor(Math.random() * (max - min + 1) + min)
+		}
+
+		const element = document.querySelectorAll('.form-bottom');
+
+		let Visible = function (targets) {
+			targets.forEach(target => {
+				let formInStockEl = target.querySelector('.form-instock')
+				if(localStorage.hasOwnProperty('inStock')) {
+					formInStockEl.textContent = localStorage.getItem('inStock')
+					formInstockValue = formInStockEl.textContent;
+				} else {
+					formInstockValue = formInStockEl.textContent;
+					localStorage.setItem('inStock', formInstockValue)
+				}
+				// Все позиции элемента
+				let targetPosition = {
+						top: window.pageYOffset + target.getBoundingClientRect().top,
+						left: window.pageXOffset + target.getBoundingClientRect().left,
+						right: window.pageXOffset + target.getBoundingClientRect().right,
+						bottom: window.pageYOffset + target.getBoundingClientRect().bottom
+					},
+					// Получаем позиции окна
+					windowPosition = {
+						top: window.pageYOffset,
+						left: window.pageXOffset,
+						right: window.pageXOffset + document.documentElement.clientWidth,
+						bottom: window.pageYOffset + document.documentElement.clientHeight
+					};
+
+				if (targetPosition.bottom > windowPosition.top && 
+					targetPosition.top < windowPosition.bottom &&
+					targetPosition.right > windowPosition.left && 
+					targetPosition.left < windowPosition.right) { 
+					if(countDownFlag) {
+						startCountDown(formInStockEl)
+						countDownFlag = false
+					}
+				} else {
+
+				};
+			})
+		};
+
+
+		window.addEventListener('scroll', function() {
+			Visible(element)
+		});
+
+		Visible(element)
+
+		function startCountDown(el) {
+			let countInterval = setInterval(function() {
+				countdown(el)
+			}, randomIntFromInterval(10, 15) * 1000) 
+		}
+	})
+   </script>
+   <div class="copy">
+      <a href="//privacy.lr-land.com/privacy.html" style="margin: 10px auto">Privacy Policy</a>
+   </div>
+       
+        <script>
+            if ($('base').length == 0) {
+                $('head').prepend('<base href="//l103-cr.bioforce-lat.com/">');
+            } else {
+                $('base').attr("href", "//l103-cr.bioforce-lat.com/");
+            }
+        </script>
+        
+            
+        <script>
+            $('form').attr("action","getform.php?flow_hash=").attr("method","post");
+        </script>
+        
+            
+        <script src="../js/jquery.maskedinput-1.2.2.js"></script>
+        <script src="../js/intlTelInput.min.js"></script>
+        <script>
+            infoForLannding = [{"nameCountry":"Costa Rica","code":"CR","price":24900,"oldPrice":49800,"labelPrice":"Colones"}];
+            domain = "l103-cr.bioforce-lat.com";
+            defaultSelectCountry = "";
+            paramData1 = "";
+        </script>
+        <script src="../js/validator.js"></script> <!--Валидатор-->
+        
+        </body>
+</html>
